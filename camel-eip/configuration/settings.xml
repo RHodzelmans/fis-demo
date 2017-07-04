@@ -23,7 +23,7 @@
   <mirrors>
     <mirror>
       <id>nexus-internal-repository</id>
-      <url>http://nexus-cicd.rhel-cdk.10.1.2.2.xip.io/content/groups/public/</url>
+      <url>http://nexus-cicd.apps.openshift.rh-rules.com/content/groups/public/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
